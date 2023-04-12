@@ -28,7 +28,7 @@ Choose from the options below to purchase a data bundle
 6. Gift Data
 7. Video Packs
 8. Hot Deals
-**Input: _**
+\**Input: _**
 
 **PS:** This program was done for fun and learning purpose, no other intension is behinde this but learning. If this raise any issue or whatsoever. This program will be immediatly pulled down and destroyed.
 
